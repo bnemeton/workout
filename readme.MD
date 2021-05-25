@@ -20,3 +20,7 @@ To run your own instance of this site:
 - On the exercise page, you will be prompted to add an exercise to the workout you are currently editing.
 - Once submitted, the exercise will be added to the workout.
 - Workout stats can be viewed from the /stats page, accessible via the "Dashboard" nav link.
+
+## Deployed
+
+A deployed version of this app can be found at https://vast-savannah-31593.herokuapp.com/
